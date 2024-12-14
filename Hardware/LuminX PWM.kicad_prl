@@ -68,6 +68,12 @@
     "visible_layers": "ffdffff_fffffff9",
     "zone_display_mode": 1
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "LuminX PWM.kicad_prl",
     "version": 3
